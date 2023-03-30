@@ -95,9 +95,15 @@ After importing the data and exploring the data in MySQL, then I imported  MySQL
 
 ## Data visualization in PowerBI and Tableau
    
-Created data visualization based on: Revenue, Sales Qty, Revenue by Markets, Sales Qty by Markets, Month, Year, Revenue trend by Month-Year, Top 5 Customers, and Top 5 Products.
+Created data visualization based on: Revenue, Sales Qty, Revenue by Markets, Sales Qty by Markets, Month, Year, Revenue trend by Month-Year, Top 5 Customers, and Top 5 Products. To check the dashboard in more details open `Power_BI_dashboard.pbix` and `Tableau_dashboard.twbx` in the relevant enviornment. 
 
-![](/images/BI_snapshot_large.PNG)
+
+**PowerBI Dashboard**
+![PowerBI Dashboard](https://github.com/Inder-rana/Project_portfolio/blob/main/Sales_insights/images/BI_snapshot_large.png)
+
+
+**Tableau Dashboard** [Tableau dashboard link](https://public.tableau.com/app/profile/inderjeet.singh4420/viz/SalesInsightsDashboard_16796303589230/Dashboard1)
+![](https://github.com/Inder-rana/Project_portfolio/blob/main/Sales_insights/images/Tableau_snapshot_large.png)
 
 
 
